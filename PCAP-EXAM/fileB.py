@@ -1,0 +1,2 @@
+import fileC
+print("B")
